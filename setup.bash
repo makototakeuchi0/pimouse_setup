@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by Makoto Takeuchi
+#Written by M.Takeuchi
 
 exec 2> /tmp/setup.log
 
